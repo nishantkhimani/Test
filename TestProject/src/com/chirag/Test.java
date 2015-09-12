@@ -11,10 +11,7 @@ public class Test {
 	public void sum(){
 		for(int i = 0; i<=10;i++){
 			System.out.println(i);
-
 			System.out.println("I is printed here");
-
-			
 		}
 	}
 }
