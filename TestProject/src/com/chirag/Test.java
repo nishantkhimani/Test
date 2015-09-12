@@ -7,10 +7,4 @@ public class Test {
 		System.out.println("chirag khimani");
 		System.out.println("This is from workspace1");
 	}
-	
-	public void sum(){
-		for(int i = 0; i<=10;i++){
-			System.out.println(i);
-		}
-	}
 }
