@@ -11,6 +11,7 @@ public class Test {
 		for (int i = 0; i < 10; i++) {
 			System.out.println(i);
 			// this was looks very ugly
+			System.out.println("Let me add one more line from my side");
 		}
 	}
 
